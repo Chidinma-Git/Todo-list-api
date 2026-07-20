@@ -2,7 +2,7 @@
 
 ## Description
 
-A RESTful API built with Node.js, Express.js, and MySQL.
+A Todo List RESTful API built with Node.js, Express.js, Swagger and MySQL.
 
 ## Features
 
@@ -31,7 +31,7 @@ npm run dev
 
 http://localhost:3000/api-docs
 
-API ARCHETECTURE
+## API ARCHETECTURE
 todo-api/
 │
 ├── node_modules/
