@@ -2,7 +2,7 @@
 
 ## Description
 
-A Todo List RESTful API built with Node.js, Express.js, Swagger and MySQL.
+A To-do List RESTful API built with Node.js, Express.js, Swagger and MySQL.
 
 ## Features
 
